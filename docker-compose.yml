@@ -1,0 +1,36 @@
+version: "3.1"
+
+services:
+  db:
+    container_name: database
+    image: sameersbn/postgresql:10-2
+    environment:
+      PG_PASSWORD: $PGPASSWORD
+    restart: always
+    ports:
+      - 5432:5432
+    network:
+      - botnet
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+
+  tgbot:
+    container_name: bot
+    build:
+      cotext: .
+    command: python app.py
+    restart: always
+    networks:
+      - botnet
+    env_file:
+      - ".env"
+    depends_on:
+      - db
+
+
+
+
+
+networks:
+  botnet:
+    driver: bridge
