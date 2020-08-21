@@ -20,31 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3aa05aa-e902-4275-afcf-3888d7042015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/inline/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/inline/inline_prod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/products/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/products/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/users/admins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/inline/callback_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/inline/confirm_buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/inline/edit_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/states/add_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/states/quantity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/states/referal_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/db_api/postgresql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/misc/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/users/echo.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/echo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/users/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +83,7 @@
       <workItem from="1597056437250" duration="1886000" />
       <workItem from="1597663007216" duration="9794000" />
       <workItem from="1597735853121" duration="15397000" />
-      <workItem from="1597829298706" duration="23054000" />
+      <workItem from="1597829298706" duration="24204000" />
     </task>
     <servers />
   </component>
