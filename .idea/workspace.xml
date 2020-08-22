@@ -58,6 +58,26 @@
       <recent name="D:\projects_2\bots\udemy_fin_task\" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml.tgbot: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="tgbot" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.tgbot: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -83,7 +103,8 @@
       <workItem from="1597056437250" duration="1886000" />
       <workItem from="1597663007216" duration="9794000" />
       <workItem from="1597735853121" duration="15397000" />
-      <workItem from="1597829298706" duration="24204000" />
+      <workItem from="1597829298706" duration="26526000" />
+      <workItem from="1598046588158" duration="3643000" />
     </task>
     <servers />
   </component>
